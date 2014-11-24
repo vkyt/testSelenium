@@ -2,7 +2,8 @@ testSelenium
 ============
 Selenium Webdriver to test Flyertown EN/FR language selection
 
-Environment Setup:
+Environment Setup
+============================
 - Linux Distribution: Centos release 6.6 
 - Ruby 2.1.0p0 (2013-12-25 revision 44422) [x86_64-linux]
 - Selenium Web Driver:  2.41.0
@@ -14,8 +15,18 @@ Environment Setup:
 - Install Chrome/ChromeDriver on CentOS 6 or 7: http://chrome.richardlloyd.org.uk/
 
 
-GEM Installation:
-- gem install selenium-webdriver
-- gem install watir
-- gem install cucumber 
+GEM Installation
+=============================
+```
+gem install selenium-webdriver
+gem install watir
+gem install cucumber 
+```
 
+Usage
+==============================
+Go to cloned directory on your desktop: 
+```
+cd /testSelenium/ 
+cucumber features/Language/lang.feature
+```
