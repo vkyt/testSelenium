@@ -3,6 +3,7 @@ require "#{File.dirname(__FILE__)}/../../../config/main.rb" #including main.rb s
 Given(/^that I am on "(.*?)"$/) do |browser|
 	case browser.upcase
 	when "CHROME" then
+    profile = Selenium::WebDriver::Chrome::Profile.new
     $browser = Watir::Browser.new :chrome
     $browser.cookies.clear
     $browser.driver.manage.timeouts.implicit_wait = 5

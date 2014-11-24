@@ -9,5 +9,5 @@ Feature: Flyertown language switch
 
     Scenarios: 
       | browser | page | lang |
-      | firefox | home | En   |
+      | chrome | home | En   |
       | firefox | home | Fr   |

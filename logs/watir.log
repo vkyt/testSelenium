@@ -17,3 +17,11 @@ I, [2014-11-24T02:57:04.242576 #8488]  INFO -- : Navigate to Page and Language s
 I, [2014-11-24T02:57:56.105847 #8958]  INFO -- : SITE is not configured in profile
 I, [2014-11-24T02:58:10.485332 #8958]  INFO -- : Navigate to Page and Language specified: home - En
 I, [2014-11-24T02:59:15.121513 #8958]  INFO -- : Navigate to Page and Language specified: home - Fr
+I, [2014-11-24T03:17:06.137323 #11427]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T03:17:14.180095 #11427]  INFO -- : Navigate to Page and Language specified: home - En
+I, [2014-11-24T03:18:21.931985 #11644]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T03:18:28.968782 #11644]  INFO -- : Navigate to Page and Language specified: home - En
+I, [2014-11-24T03:18:54.211991 #11644]  INFO -- : Navigate to Page and Language specified: home - Fr
+I, [2014-11-24T03:19:57.355191 #11894]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T03:20:06.544152 #11894]  INFO -- : Navigate to Page and Language specified: home - En
+I, [2014-11-24T03:20:31.007722 #11894]  INFO -- : Navigate to Page and Language specified: home - Fr

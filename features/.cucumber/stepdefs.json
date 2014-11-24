@@ -18,7 +18,7 @@
   {
     "source": "^I go to the flyertown \"(.*?)\" and choose \"(.*?)\"$",
     "flags": "",
-    "file_colon_line": "features/Language/step_definitions/lang.rb:28",
+    "file_colon_line": "features/Language/step_definitions/lang.rb:29",
     "steps": [
       {
         "name": "I go to the flyertown \"<page>\" and choose \"<lang>\"",
@@ -38,7 +38,7 @@
   {
     "source": "^I should see the \"(.*?)\" displayed$",
     "flags": "",
-    "file_colon_line": "features/Language/step_definitions/lang.rb:39",
+    "file_colon_line": "features/Language/step_definitions/lang.rb:40",
     "steps": [
       {
         "name": "I should see the \"<lang>\" displayed",
