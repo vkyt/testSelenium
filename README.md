@@ -11,11 +11,11 @@ Environment Setup:
 - Firefox 31.2.0
 - Chrome 39.0.2171.65
 - Chrome Web Driver: 2.12.301324 
-*Install Chrome/ChromeDriver on CentOS 6 or 7: http://chrome.richardlloyd.org.uk/
+- Install Chrome/ChromeDriver on CentOS 6 or 7: http://chrome.richardlloyd.org.uk/
 
 
 GEM Installation:
-gem install selenium-webdriver
-gem install watir
-gem install cucumber 
+- gem install selenium-webdriver
+- gem install watir
+- gem install cucumber 
 
