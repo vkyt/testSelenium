@@ -1,0 +1,9 @@
+#keep user and database configurations here
+default_wait_time: 10
+default_env: 'http://www.flyertown.ca/'
+
+#local environment information
+local_wait_time: 10
+local_env: 'placeholder'
+
+
