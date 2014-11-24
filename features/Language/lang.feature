@@ -3,11 +3,11 @@ Feature: Flyertown language switch
 
   #website: http://www.flyertown.ca/
   Scenario Outline: 
-    Given that I am on "<browser>" 
+    Given that I am on "<browser>"
     When I go to the flyertown "<page>" and choose "<lang>"
-    Then I should see the proper language displayed
+    Then I should see the "<lang>" displayed
 
     Scenarios: 
-      | browser | page   | lang                | 
-      | chrome             | home  | En                | 
-      | firefox         | home  | Fr                |
+      | browser | page | lang |
+      | firefox | home | En   |
+      | firefox | home | Fr   |

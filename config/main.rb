@@ -3,6 +3,7 @@ require "watir"
 require "cucumber"
 require 'selenium-webdriver'
 
+
 #kill any existing browser sessions for a clean start
 system 'pkill firefox'
 system 'pkill chrome'
@@ -58,12 +59,5 @@ After do |scenario|
   end
 end  
 
-#profile = Selenium::WebDriver::Firefox::Profile.new
-#profile['browser.cache.disk.enable'] = false
-#$browser = Watir::Browser.new  :firefox, :profile => profile
-$browser = Watir:Browser.mew :chrome
-$browser.cookies.clear
-$browser.driver.manage.timeouts.implicit_wait = 5
-$browser.driver.manage.window.maximize
 
 

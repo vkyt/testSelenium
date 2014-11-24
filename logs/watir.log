@@ -1,0 +1,19 @@
+# Logfile created on 2014-11-24 01:41:46 -0500 by logger.rb/44203
+I, [2014-11-24T01:41:46.573971 #5342]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T01:42:21.799063 #5342]  INFO -- : Navigate to Page and Language specified: home - Fr
+I, [2014-11-24T01:53:07.363582 #5611]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T01:55:07.747266 #5794]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T01:56:31.577592 #6110]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T01:59:51.730896 #6258]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T02:16:56.472482 #6672]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T02:49:07.029588 #7843]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T02:49:22.079445 #7843]  INFO -- : Navigate to Page and Language specified: home - Fr
+I, [2014-11-24T02:49:54.173073 #7973]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T02:53:07.465071 #8295]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T02:54:29.671047 #8295]  INFO -- : Navigate to Page and Language specified: home - Fr
+I, [2014-11-24T02:55:49.729881 #8488]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T02:56:04.484089 #8488]  INFO -- : Navigate to Page and Language specified: home - En
+I, [2014-11-24T02:57:04.242576 #8488]  INFO -- : Navigate to Page and Language specified: home - Fr
+I, [2014-11-24T02:57:56.105847 #8958]  INFO -- : SITE is not configured in profile
+I, [2014-11-24T02:58:10.485332 #8958]  INFO -- : Navigate to Page and Language specified: home - En
+I, [2014-11-24T02:59:15.121513 #8958]  INFO -- : Navigate to Page and Language specified: home - Fr
